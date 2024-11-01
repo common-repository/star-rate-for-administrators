@@ -1,0 +1,227 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Star Rate for Administrators v.0.0.2\n"
+"POT-Creation-Date: 2013-10-18 18:15+1200\n"
+"PO-Revision-Date: 2013-10-18 18:16+1200\n"
+"Last-Translator: Javier Glez R <JavierGlezR@hotmail.es>\n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _e;__;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: D:\\Personal Javi\\DropBox\\Proyectos Web\\Apache_PHP"
+"\\WordPress_Developer\\wp-content\\plugins\\star-rate-for-administrators\n"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\star-rate-for-administrators/star-rate-for-administrators.php:23
+msgid "Star Rate Settings"
+msgstr "Star Rate Ajustes"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\star-rate-for-administrators/star-rate-for-administrators.php:23
+msgid "Star Rate for Admin"
+msgstr "Star Rate for Admin"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\star-rate-for-administrators/star-rate-for-administrators.php:28
+msgid "Small padawan ... you must use the force to enter here."
+msgstr "Pequeño padawan... debes utilizar la fuerza para entrar aquí."
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\star-rate-for-administrators/star-rate-for-administrators.php:47
+msgid "Star Rate for Administrators"
+msgstr "Star Rate for Administrators"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\star-rate-for-administrators/star-rate-for-administrators.php:52
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\star-rate-for-administrators/star-rate-for-administrators.php:55
+msgid "Number of stars"
+msgstr "Número de estrellas"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\star-rate-for-administrators/star-rate-for-administrators.php:56
+msgid "From 0 to 5 stars"
+msgstr "De 0 a 5 estrellas"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\star-rate-for-administrators/star-rate-for-administrators.php:57
+msgid "From 0 to 10 stars"
+msgstr "De 0 a 10 estrellas"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\star-rate-for-administrators/star-rate-for-administrators.php:62
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\star-rate-for-administrators/star-rate-for-administrators.php:65
+msgid "Show only colored"
+msgstr "Mostrar sólo coloreadas"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\star-rate-for-administrators/star-rate-for-administrators.php:66
+msgid "Show only colored stars"
+msgstr "Mostrar sólo estrellas coloreadas"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\star-rate-for-administrators/star-rate-for-administrators.php:71
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\star-rate-for-administrators/star-rate-for-administrators.php:74
+msgid "Rounded value"
+msgstr "Redondeo del valor"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\star-rate-for-administrators/star-rate-for-administrators.php:75
+msgid "Round the value for not showing half star"
+msgstr "Redondear el valor para no mostrar estrellas medias"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\star-rate-for-administrators/star-rate-for-administrators.php:80
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\star-rate-for-administrators/star-rate-for-administrators.php:83
+msgid "Type of stars"
+msgstr "Tipos de estrellas"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\star-rate-for-administrators/star-rate-for-administrators.php:90
+msgid "Full star"
+msgstr "Estrella Completa"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\star-rate-for-administrators/star-rate-for-administrators.php:91
+msgid "Half star"
+msgstr "Media Estrella"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\star-rate-for-administrators/star-rate-for-administrators.php:92
+msgid "Empty star"
+msgstr "Estrella vacía"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\star-rate-for-administrators/star-rate-for-administrators.php:93
+msgid "Type: "
+msgstr "Tipo:"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\star-rate-for-administrators/star-rate-for-administrators.php:93
+msgid "Size: "
+msgstr "Tamaño: "
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\star-rate-for-administrators/star-rate-for-administrators.php:112
+msgid "How to use"
+msgstr "Modo de uso"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\star-rate-for-administrators/star-rate-for-administrators.php:114
+msgid ""
+"<p align=\"justify\">To display the stars in the post, you have to write the "
+"following pattern directly on the content:</p><center><b style=\"font-"
+"size:17px;\">[SRA value=\"x.x\" OPTIONS]</b></center><p align=\"justify"
+"\">where \"x\" represents the numbers that lead to the number of stars which "
+"are visible or colored. For example: <b>[SRA value=\"5.7\"]</b>.</p>"
+msgstr ""
+"<p align=\"justify\">Para mostrar las estrellas en un post, tienes que poner "
+"el siguiente patrón directamente en el contenido:</p><center><b style=\"font-"
+"size:17px;\">[SRA value=\"x.x\" OPCIONES]</b></center><p align=\"justify"
+"\">donde \"x\" representa el numero de estrellas que se veran o estarán "
+"coloreadas. Por ejemplo: <b>[SRA value=\"5.7\"]</b>."
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\star-rate-for-administrators/star-rate-for-administrators.php:115
+msgid ""
+"<h6 style=\"font-size:1.2em; margin-bottom:0px; text-align:center;"
+"\">Options</h6><ul style=\"text-indent:10px; margin-top:5px;\"><li><b>type</"
+"b>: Represents a specific type of stars (e.g.: [SRA value=\"5.7\" type=\"GN"
+"\"]).</li><li><b>range</b>: Represents the number of stars. The value can be "
+"5 or 10 (e.g.: [SRA value=\"5.7\" range=\"10\"]).</li><li><b>colored</b>: "
+"Represents whether it only shows the stars of colored or all the stars. The "
+"value can be 0 (all) or 1 (only colored). (e.g.: [SRA value=\"5.7\" colored="
+"\"1\"]).</li><li><b>rounded</b>: Represents whether it rounds the value for "
+"not showing a half star. The value can be 0 (no) or 1 (yes). (e.g.: [SRA "
+"value=\"5.7\" rounded=\"1\"]).</li></ul>"
+msgstr ""
+"<h6 style=\"font-size:1.2em; margin-bottom:0px; text-align:center;"
+"\">Opciones</h6><ul style=\"text-indent:10px; margin-top:5px;\"><li><b>type</"
+"b>: Representa un tipo específico de estrella (ej.: [SRA value=\"5.7\" type="
+"\"GN\"]).</li><li><b>range</b>: Representa el núnero de estrellas. El valor "
+"puede ser 5 ó 10 (ej.: [SRA value=\"5.7\" range=\"10\"]).</"
+"li><li><b>colored</b>: Representa si solo se muestran las estrellas "
+"coloreadas o todas las estrellas. El valor puede ser 0 (todas) o 1 (solo "
+"coloreadas). (ej.: [SRA value=\"5.7\" colored=\"1\"]).</li><li><b>rounded</"
+"b>: Representa si se redondea el valor para no mostrar estrellas partidas. "
+"El valor puede ser 0 (no) o 1 (sí). (ej.: [SRA value=\"5.7\" rounded=\"1\"])."
+"</li></ul>"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\star-rate-for-administrators/star-rate-for-administrators.php:119
+msgid "About this plugin"
+msgstr "Sobre este plugin"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\star-rate-for-administrators/star-rate-for-administrators.php:121
+msgid "PlugIn Web Site"
+msgstr "Página Web del PlugIn"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\star-rate-for-administrators/star-rate-for-administrators.php:123
+msgid "Request new features"
+msgstr "Solicitar nuevas características"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\star-rate-for-administrators/star-rate-for-administrators.php:125
+msgid "Report a error"
+msgstr "Reportar un error"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\star-rate-for-administrators/star-rate-for-administrators.php:176
+msgid "Settings saved."
+msgstr "Ajustes guardados."
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\star-rate-for-administrators/star-rate-for-administrators.php:178
+msgid "Settings NOT saved. There are error(s)."
+msgstr "Ajustes NO guardados. Hay error(es)."
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\star-rate-for-administrators/star-rate-for-administrators.php:253
+#, php-format
+msgid "The score is: %s over %d"
+msgstr "La puntuación es: %s sobre %d"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\star-rate-for-administrators/star-rate-for-administrators.php:259
+msgid "Settings"
+msgstr "Ajustes"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\star-rate-for-administrators/inc/stars.php:7
+msgid "Orange Small"
+msgstr "Naranja Pequeña"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\star-rate-for-administrators/inc/stars.php:8
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\star-rate-for-administrators/inc/stars.php:24
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\star-rate-for-administrators/inc/stars.php:40
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\star-rate-for-administrators/inc/stars.php:56
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\star-rate-for-administrators/inc/stars.php:72
+msgid "Description"
+msgstr "Descripción"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\star-rate-for-administrators/inc/stars.php:23
+msgid "Gold Star"
+msgstr "Estrella Dorada"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\star-rate-for-administrators/inc/stars.php:39
+msgid "Orange Star"
+msgstr "Estrella Naranja"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\star-rate-for-administrators/inc/stars.php:55
+msgid "Yellow Star"
+msgstr "Estrella Amarilla"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\star-rate-for-administrators/inc/stars.php:71
+msgid "Big Star"
+msgstr "Estrella Grande"
